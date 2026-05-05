@@ -194,7 +194,3 @@ Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before contributing.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Status
-
-Nearly complete. Core transfer functionality implemented with QUIC, FEC, encryption, observability, and cross-platform support. Flutter frontend deployed across all targets. Rust bridge planned for mobile optimization. Ready for final testing and production deployment.
